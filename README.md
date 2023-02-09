@@ -1,0 +1,2 @@
+# mydotfiles
+BSPWM -Dotfiles 
