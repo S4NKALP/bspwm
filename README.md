@@ -93,6 +93,24 @@ Here are some details about my setup:
 > Lastly, log out from your current desktop session and log in into bspwm.
 
    <br>
+   
+> Very useful keybindigs to know...
+
+- <code>super + r</code> Apps Menu.
+- <code>super + h </code> Hides bar/s <code>
+- <code>Print</code> Takes screenshot.
+- <code>super + o</code> Toggle Notification Center.
+- <code>super + d</code> open eww dashboard
+- <code>super + x</code> Open a terminal.
+- <code>Alt + x</code> Open a floating terminal.
+- <code>super + q</code> Close App.
+- <code>super + alt + l</code> Lock Screen
+- <code>ctrl + shift + r</code> Restart bspwm.
+- <code>super + escape<code> Reload Keybinding
+-<code>shift + alt + {a,d}<code>Switch Workspace
+For more you can go to .config/sxhkd/sxhkdrc  
+     
+    <br>
 
 ## Miscellaneous.
 
