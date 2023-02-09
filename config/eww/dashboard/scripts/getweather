@@ -10,8 +10,8 @@ cache_weather_city=${cache_dir}/weather-city
 cache_weather_country=${cache_dir}/weather-country
 
 ## Weather data
-KEY="ab662f7f800fc75b3e7bc6d00e84193e"
-ID="6941099"
+KEY="Your Key"
+ID="City ID"
 UNIT=""	# Available options : 'metric' or 'imperial'
 
 ## Make cache dir
