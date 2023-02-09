@@ -103,3 +103,5 @@ Here are some details about my setup:
 
 - **Icon Theme <kbd>Suggested</kbd>**
   > You can install [this](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) icon theme that suits the GTK theme.
+  
+  > 
