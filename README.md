@@ -7,7 +7,6 @@
 
 <!-- INFORMATION -->
 
-### Thanks for dropping by!
 
 <img src="https://raw.githubusercontent.com/rxyhn/bspdots/main/TokyoNight.png" alt="img" align="right" width="400px">
 
