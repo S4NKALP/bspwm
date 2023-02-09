@@ -97,7 +97,6 @@ Here are some details about my setup:
 > Very useful keybindigs to know...
 
 - <code>super + r</code> Apps Menu.
-- <code>super + h </code> Hides bar/s <code>
 - <code>Print</code> Takes screenshot.
 - <code>super + o</code> Toggle Notification Center.
 - <code>super + d</code> open eww dashboard
@@ -106,10 +105,10 @@ Here are some details about my setup:
 - <code>super + q</code> Close App.
 - <code>super + alt + l</code> Lock Screen
 - <code>ctrl + shift + r</code> Restart bspwm.
-- <code>super + escape<code> Reload Keybinding
--<code>shift + alt + {a,d}<code>Switch Workspace
+- <code>super + escape</code> Reload Keybinding
+- <code>shift + alt + {a,d}</code>Switch Workspace
+
 For more you can go to .config/sxhkd/sxhkdrc  
-     
     <br>
 
 ## Miscellaneous.
