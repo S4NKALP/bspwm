@@ -35,7 +35,17 @@ Here are some details about my setup:
 
 ## Setup.
 
-> This is step-by-step how to install these bspwm dotfiles. Just [R.T.F.M](https://en.wikipedia.org/wiki/RTFM).
+> This is step-by-step how to install these bspwm dotfiles.
+
+<details open>
+<summary><strong>First clone this repository</strong></summary>
+
+```sh
+$ cd Downloads
+$ git clone https://github.com/S4NKALP/bspwm.git
+
+```
+  </details>
 
 ### Installation (Manual)
 
@@ -72,7 +82,7 @@ Here are some details about my setup:
 
    <br>
 
-> Recommended Fonts for this. [You must have]
+> Used Fonts. [You must have]
 
 - **Cartograph CF:** [here](https://en.bestfonts.pro/font/cartograph-cf)
 - **JetBrainsMono NF:** [here](https://github.com/ryanoasis/nerd-fonts)
