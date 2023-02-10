@@ -12,7 +12,7 @@
 
 This is my personal collection of configuration files.
 
-You are probably here for my **Aesthetic BSPWM** configuration.
+Not stable but usable
 
 The [setup section](#setup) will guide you through the installation process.
 
@@ -44,7 +44,7 @@ Here are some details about my setup:
    <details open>
    <summary><strong>Arch Linux (and Arch-based distributions)</strong></summary>
 
-> Assuming your **AUR Helper** is [yay](https://github.com/Jguer/yay).
+> Installaing Dependencies with [yay](https://github.com/Jguer/yay).
 
 ```sh
  $ yay -S bspwm sxhkd rofi kitty picom-ibhagwan-git calcurse todotxt \
@@ -72,7 +72,7 @@ Here are some details about my setup:
 
    <br>
 
-> You will need to install a few fonts.
+> Recommended Fonts for this. [You must have]
 
 - **Cartograph CF:** [here](https://en.bestfonts.pro/font/cartograph-cf)
 - **JetBrainsMono NF:** [here](https://github.com/ryanoasis/nerd-fonts)
