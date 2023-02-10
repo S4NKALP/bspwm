@@ -8,7 +8,7 @@
 <!-- INFORMATION -->
 
 
-<img src="https://raw.githubusercontent.com/S4NKALP/bspwm/main/TokyoNight.png" alt="img" align="right" width="400px">
+<img src="https://raw.githubusercontent.com/S4NKALP/bspwm/main/.png" alt="img" align="right" width="400px">
 
 This is my personal collection of configuration files.
 
