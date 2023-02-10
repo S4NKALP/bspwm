@@ -83,7 +83,7 @@ xfce4-power-manager &
 bspfloat &
 
 # Start X wallpaper.
-feh --no-fehbg --bg-fill $HOME/.config/eww/assest/wall.png
+feh --no-fehbg --bg-fill $HOME/.config/eww/assest/wq.jpg
 
 
 # Fix cursor.
