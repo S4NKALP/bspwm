@@ -5,21 +5,30 @@
 #	╚════██║ ██╔██╗ ██╔══██║██╔═██╗ ██║  ██║	#
 #	███████║██╔╝ ██╗██║  ██║██║  ██╗██████╔╝	#
 #	╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝		#
-####################By: rxyhn####################
+####################By: S4NKALP####################
 
 ##---------- Keybindings for bspwm ----------##
 
 # Terminal (kitty)
 super + x
-	kitty
+	alacritty
 
 # Terminal (floating)
 alt + x
-	bspc rule -a kitty -o state=floating follow=on center=true rectangle=490x310+0+0 && kitty
+	bspc rule -a alacritty -o state=floating follow=on center=true rectangle=490x310+0+0 && alacritty
+
 
 # Open application menu
 super + r
     sh $HOME/.local/bin/launcher
+
+#Rofi Emoji
+alt + shift + e
+	rofi -show emoji
+
+#program run
+alt + @space
+	rofi -show {run}
 
 # Toggle eww dashboard
 super + d
@@ -33,15 +42,16 @@ super + o
 super + p
 	sh $HOME/.local/bin/xcolor-pick
 
-# Lockscreen
-ctrl + alt + l
-    betterlockscreen -l
+# System power off reboot lock 
+ctrl + alt + {p,r,l}
+        {systemctl poweroff, systemctl reboot,betterlockscreen -l}
+
 
 ##---------- Applications ----------##
 
 # Launch Apps
-alt + {n,f,c,z,s,g,t,w,v,o,d,e}
-	{thunar,firefox,code,google-chrome-stable,subl,gimp,telegram-desktop,whatsapp-nativefier,virt-manager,obs,discord,oneshot-qt}
+alt + {n,f,c,z,s,g,t,w,v,o,d,e,m}
+	{thunar,firefox,code,google-chrome-stable,subl,gimp,telegram-desktop,whatsapp-nativefier,virt-manager,obs,discord,oneshot-qt,spotify-launcher}
 
 ##---------- System Keys ----------##
 
