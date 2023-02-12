@@ -111,9 +111,10 @@ $ git clone https://github.com/S4NKALP/bspwm.git
 - <code>super + o</code> Toggle Notification Center.
 - <code>super + d</code> open eww dashboard
 - <code>super + x</code> Open a terminal.
-- <code>Alt + x</code> Open a floating terminal.
+- <code>alt + x</code> Open a floating terminal.
 - <code>super + q</code> Close App.
 - <code>super + alt + l</code> Lock Screen
+- <code>super + alt + p</code> Shutdown
 - <code>ctrl + shift + r</code> Restart bspwm.
 - <code>super + escape</code> Reload Keybinding
 - <code>shift + alt + {a,d}</code>Switch Workspace
