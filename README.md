@@ -12,7 +12,6 @@
 
 This is my personal collection of configuration files.
 
-Not stable but usable
 
 The [setup section](#setup) will guide you through the installation process.
 
